@@ -1,6 +1,9 @@
 // Auto-generated list of videos
 const videos = [
+    "test_video3.mp4",
     "test_video_1.mp4",
+    "test_video_2.mp4",
+    "test_video_4.mp4"
 ];
 
 const videoList = document.getElementById('video-list');
