@@ -3,7 +3,7 @@ name: Update Video List
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'videos/**'
 
