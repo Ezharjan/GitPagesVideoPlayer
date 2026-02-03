@@ -3,9 +3,7 @@ name: Update Video List
 on:
   push:
     branches:
-      - main
-    paths:
-      - 'videos/**'
+      - master
 
 jobs:
   build:
