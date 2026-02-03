@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ezharjan.github.io/GitPagesVideo/sitemap.xml

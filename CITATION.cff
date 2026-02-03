@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "GitHub Pages Video Gallery"
+authors:
+- family-names: "Aizierjiang"
+  given-names: "Aiersilan"
+  orcid: "https://orcid.org/0009-0007-2089-1823"  # Placeholder - replace with actual ORCID if available
+repository-code: "https://github.com/Ezharjan/GitPagesVideo"  # Replace with actual repository URL
+url: "https://Ezharjan.github.io/GitPagesVideo"  # Replace with actual GitHub Pages URL
+license: MIT
+preferred-citation:
+  type: software
+  authors:
+  - family-names: "Aizierjiang"
+    given-names: "Aiersilan"
+  title: "GitHub Pages Video Gallery"
+  repository-code: "https://github.com/Ezharjan/GitPagesVideo"
+  license: MIT

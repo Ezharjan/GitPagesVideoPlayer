@@ -1,0 +1,9 @@
+{
+  "name": "gitpagesvideo",
+  "version": "1.0.0",
+  "description": "Video gallery for GitHub Pages",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {}
+}
